@@ -1,7 +1,7 @@
 # Ai-finance-planner
 Check out the AI Finance Planner on Hugging Face Spaces:
 
-👉 AI Finance Planner
+👉 [AI Finance Planner](https://huggingface.co/spaces/Shodnotantelope2/Ai-finance-planner)
 
 📊 What It Does
 
